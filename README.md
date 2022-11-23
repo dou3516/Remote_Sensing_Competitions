@@ -30,23 +30,23 @@
 # 📚 竞赛：按年度整理
 以竞赛开始时间倒序。
 ## 2022
-- **[[2022.11.17] 国家电网有限公司2022年人工智能竞赛公开赛-设备赛题-卫星遥感中输电杆塔和输电通道环境隐患目标智能提取](https://aistudio.baidu.com/aistudio/competition/detail/616/0/task-definition)**
-**网站**：[卫星遥感中输电杆塔和输电通道环境隐患目标智能提取](https://aistudio.baidu.com/aistudio/competition/detail/616/0/task-definition)
-**时间**：2022.11.17 - 2022.12.05
-**任务类型**：目标检测、语义分割
-**限制**：使用PaddlePaddle框架
-**简介**：
-针对输电线路的卫星遥感图像数据，采用图像识别、目标检测、语义分割等人工智能技术，对输电线路卫星遥感影像中输电杆塔本体以及水体、树木、建筑、易漂浮物等输电通道环境隐患进行检测辨识。预计初赛阶段针对输电杆塔（400项）、输电通道环境隐患目标（800项）发布训练样本1200项，随机选取测试样本300项（不公开），分别用于算法模型训练和模型性能测试；预计决赛阶段针对输电杆塔（800项）、输电通道环境隐患目标（1600项）发布训练样本2400项，随机选取测试样本600项（不公开），分别用于算法模型训练和模型性能测试。输电杆塔通过计算平均精确率、漏检率、误检率、平均计算时间等指标进行评测；输电通道环境隐患通过计算像素准确率与类别平均像素准确率等指标进行评测。
+- **[[2022.11.17] 国家电网有限公司2022年人工智能竞赛公开赛-设备赛题-卫星遥感中输电杆塔和输电通道环境隐患目标智能提取](https://aistudio.baidu.com/aistudio/competition/detail/616/0/task-definition)**<br>
+**网站**：[卫星遥感中输电杆塔和输电通道环境隐患目标智能提取](https://aistudio.baidu.com/aistudio/competition/detail/616/0/task-definition)<br>
+**时间**：2022.11.17 - 2022.12.05<br>
+**任务类型**：目标检测、语义分割<br>
+**限制**：使用PaddlePaddle框架<br>
+**简介**：<br>
+针对输电线路的卫星遥感图像数据，采用图像识别、目标检测、语义分割等人工智能技术，对输电线路卫星遥感影像中输电杆塔本体以及水体、树木、建筑、易漂浮物等输电通道环境隐患进行检测辨识。预计初赛阶段针对输电杆塔（400项）、输电通道环境隐患目标（800项）发布训练样本1200项，随机选取测试样本300项（不公开），分别用于算法模型训练和模型性能测试；预计决赛阶段针对输电杆塔（800项）、输电通道环境隐患目标（1600项）发布训练样本2400项，随机选取测试样本600项（不公开），分别用于算法模型训练和模型性能测试。输电杆塔通过计算平均精确率、漏检率、误检率、平均计算时间等指标进行评测；输电通道环境隐患通过计算像素准确率与类别平均像素准确率等指标进行评测。<br>
 
-- **[[2022.06.04] SN8: Flood Detection Challenge Using Multiclass Segmentation](https://spacenet.ai/sn8-challenge/)**
-**网站**：[SN8 on topcoder](https://www.topcoder.com/challenges/a6c49990-e4a9-4e90-a731-4cc6502e6beb)
-**时间**：2022.06.04 - 2022.08.31
-**任务类型**：语义分割、变化检测
-**简介**：
-SpaceNet 8 aims to answer these questions:
-How have algorithms that extract buildings and roads improved since SpaceNet was launched, and how can top algorithms from previous challenges be leveraged? 
-What is the impact on performance for a multiclass feature extraction challenge—i.e., buildings and roads? 
-How accurately can roads obstructed by flood waters be characterized from pre-event road detections and post-event satellite imagery? 
+- **[[2022.06.04] SN8: Flood Detection Challenge Using Multiclass Segmentation](https://spacenet.ai/sn8-challenge/)**<br>
+**网站**：[SN8 on topcoder](https://www.topcoder.com/challenges/a6c49990-e4a9-4e90-a731-4cc6502e6beb)<br>
+**时间**：2022.06.04 - 2022.08.31<br>
+**任务类型**：语义分割、变化检测<br>
+**简介**：<br>
+SpaceNet 8 aims to answer these questions:<br>
+How have algorithms that extract buildings and roads improved since SpaceNet was launched, and how can top algorithms from previous challenges be leveraged? <br>
+What is the impact on performance for a multiclass feature extraction challenge—i.e., buildings and roads? <br>
+How accurately can roads obstructed by flood waters be characterized from pre-event road detections and post-event satellite imagery? <br>
 
 ## 2021
 
