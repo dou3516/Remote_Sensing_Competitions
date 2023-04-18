@@ -8,9 +8,9 @@
 典型的周期性比赛如下：
 | 赛事名称 | 主办方 | 官网链接 | 备注 |
 |:--|:--|:--|:--|
-| 遥感影像智能处理算法大赛 | 基金委/武大 | [rsipac](http://rsipac.whu.edu.cn/) | 2022年正常举行 |
-| 天智杯人工智能挑战赛 | 航天系统装备部 | [tianzhibei](https://www.tianzhibei.org.cn/) | 2021年线下赛延期至今(2022) |
-| 国际高分遥感图像解译大赛 | 高分办/中国科学院空天信息创新研究院 | [gaofen-challenge](https://www.gaofen-challenge.com/challenge)| 2022年度比赛未开展 |
+| 遥感影像智能处理算法大赛 | 基金委/武大 | [rsipac](http://rsipac.whu.edu.cn/) | 2022年正常举行，于2023年3月完赛 |
+| 天智杯人工智能挑战赛 | 航天系统装备部 | [tianzhibei](https://www.tianzhibei.org.cn/) | 2021年线下赛延期至今2023年4月 |
+| 国际高分遥感图像解译大赛 | 高分办/中国科学院空天信息创新研究院 | [gaofen-challenge](https://www.gaofen-challenge.com/challenge)| 2022年度比赛于2023年3月完赛 |
 | spacenet challenges | spacenet | [spacenet](https://spacenet.ai/challenges/) | SN7 is a NeurIPS 2020 Competition, now is SN8 |
 | Data Fusion Contest (DFC) | IEEE | [DFC2022](https://76.223.36.25/competitions/data-fusion-contest-2022-dfc2022) |  |
 | isprs benchmarks| ISPRS | [isprs benchmarks](https://www.isprs.org/education/benchmarks.aspx) | 提供各类摄影测量与遥感领域的测试基准 |
